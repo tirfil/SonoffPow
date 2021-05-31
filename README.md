@@ -1,7 +1,9 @@
 # SonoffPow
 Alexa ESP8266 firmware for Sonoff Pow 
 
-Connected plug using FauxmoESP library (Philips Hue Fake Device).
+Simple connected plug using FauxmoESP library (Philips Hue Fake Device).
+
+Note: HLW8012 component (Energy meter) is not used.
 
 *Libraries needed:*
 * FauxmoESP https://bitbucket.org/xoseperez/fauxmoesp/src/master/
